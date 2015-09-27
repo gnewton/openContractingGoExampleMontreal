@@ -104,7 +104,8 @@ func perror(err error) {
 		panic(err)
 	}
 }
-func get_content() {
+
+func main() {
 	url := "http://ville.montreal.qc.ca/vuesurlescontrats/api/releases?q=mecano&format=json"
 
 	res, err := http.Get(url)
@@ -121,6 +122,7 @@ func get_content() {
 		case *json.SyntaxError:
 			fmt.Println(string(body[v.Offset-40 : v.Offset]))
 		}
+		perror(err)
 	}
 	for _, release := range data.Releases {
 		fmt.Println("--------------------------------")
@@ -144,8 +146,4 @@ func get_content() {
 		}
 		fmt.Printf("Buyer: %s\n", release.Buyer.Name)
 	}
-}
-
-func main() {
-	get_content()
 }
