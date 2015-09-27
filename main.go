@@ -125,7 +125,7 @@ func get_content() {
 	for _, release := range data.Releases {
 		for _, award := range release.Awards {
 			for _, supplier := range award.Suppliers {
-				fmt.Printf("%s %s: %f \n", supplier.Identifier.ID, supplier.Name, award.Value.Amount)
+				fmt.Printf("%s|%s|%f\n", supplier.Identifier.ID, supplier.Name, award.Value.Amount)
 			}
 		}
 	}
