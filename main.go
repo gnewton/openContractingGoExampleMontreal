@@ -123,11 +123,26 @@ func get_content() {
 		}
 	}
 	for _, release := range data.Releases {
+		fmt.Println("--------------------------------")
+		fmt.Printf("Date: %s\n", release.Date)
+		fmt.Printf("Subject: %s\n", release.Subject[0])
+		fmt.Printf("Language: %s\n", release.Language)
+
+		// Tender
+		fmt.Printf("Procurement Method Rationale: %s\n", release.Tender.ProcurementMethodRationale)
+		fmt.Printf("Status: %s\n", release.Tender.Status)
+
 		for _, award := range release.Awards {
+			fmt.Printf("Value: %f\n", award.Value.Amount)
+
+			// award.Repartition is always null in example URL, so do not know how to deal with...
+			//fmt.Printf("Répartition: %f\n", award.Repartition)
+			fmt.Printf("No de dossier: %s\n", award.ID)
 			for _, supplier := range award.Suppliers {
-				fmt.Printf("%s|%s|%f\n", supplier.Identifier.ID, supplier.Name, award.Value.Amount)
+				fmt.Printf("Fournisseur: %s\n", supplier.Name)
 			}
 		}
+		fmt.Printf("Buyer: %s\n", release.Buyer.Name)
 	}
 }
 

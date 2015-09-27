@@ -1,32 +1,320 @@
-mecano-alca-inc|MECANO ALCA INC|2091.830000
-mecano-alca-inc|MECANO ALCA INC|2529.210000
-mecano-alca-inc|MECANO ALCA INC|2191.610000
-groupe-mecano-inc|GROUPE MECANO INC|58268.060000
-groupe-mecano-inc|GROUPE MECANO INC|2913.400000
-mecano-alca-inc|MECANO ALCA INC|2214.590000
-mecano-alca-inc|MECANO ALCA INC|3791.000000
-mecano-alca-inc|MECANO ALCA INC|2095.000000
-mecano-alca-inc|MECANO ALCA INC|6338.000000
-mecano-alca-inc|MECANO ALCA INC|6338.040000
-mecano-alca-inc|MECANO ALCA INC|4588.940000
-mecano-alca-inc|MECANO ALCA INC|16811.220000
-mecano-alca-inc|MECANO ALCA INC|2059.500000
-mecano-alca-inc|MECANO ALCA INC|2481.880000
-mecano-alca-inc|MECANO ALCA INC|5088.620000
-groupe-mecano|GROUPE MÉCANO|114975.000000
-mecano-alca-inc|MECANO ALCA INC|3577.760000
-mecano-alca-inc|MECANO ALCA INC|3652.850000
-mecano-alca-inc|MECANO ALCA INC|3671.200000
-norclair-inc|NORCLAIR INC.|575985.000000
-mecano-alca-inc|MECANO ALCA INC|3007.190000
-mecano-alca-inc|MECANO ALCA INC|2348.740000
-groupe-mecano|GROUPE MÉCANO|303215.000000
-mecano-alca-inc|MECANO ALCA INC|2570.210000
-mecano-alca-inc|MECANO ALCA INC|6014.250000
-groupe-mecano-inc|GROUPE MECANO INC|4081.150000
-mecano-alca-inc|MECANO ALCA INC|2408.430000
-mecano-alca-inc|MECANO ALCA INC|2300.340000
-mecano-alca-inc|MECANO ALCA INC|5569.910000
-mecano-alca-inc|MECANO ALCA INC|3215.670000
-mecano-alca-inc|MECANO ALCA INC|3250.260000
-mecano-industrie-inc|MECANO-INDUSTRIE INC.|14214.720000
+--------------------------------
+Date: 2015-08-25T00:00:00-04:00
+Subject: Autres
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 2091.830000
+No de dossier: MAD787215
+Fournisseur: MECANO ALCA INC
+Buyer: Service du Materiel roulant et des ateliers
+--------------------------------
+Date: 2015-07-15T00:00:00-04:00
+Subject: Ressources matérielles et services
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 2529.210000
+No de dossier: CAR783647
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DU MATÉRIEL ROULANT ET DES ATELIERS
+--------------------------------
+Date: 2015-07-13T00:00:00-04:00
+Subject: Ressources matérielles et services
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 2191.610000
+No de dossier: CAR782961
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DU MATÉRIEL ROULANT ET DES ATELIERS
+--------------------------------
+Date: 2015-07-09T00:00:00-04:00
+Subject: Infrastructures
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 58268.060000
+No de dossier: DEU17071
+Fournisseur: GROUPE MECANO INC
+Buyer: SERVICE DE L'EAU
+--------------------------------
+Date: 2015-07-09T00:00:00-04:00
+Subject: Infrastructures
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 2913.400000
+No de dossier: DEU17071
+Fournisseur: GROUPE MECANO INC
+Buyer: SERVICE DE L'EAU
+--------------------------------
+Date: 2015-06-18T00:00:00-04:00
+Subject: Ressources matérielles et services
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 2214.590000
+No de dossier: CAR781459
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DU MATÉRIEL ROULANT ET DES ATELIERS
+--------------------------------
+Date: 2015-05-15T00:00:00-04:00
+Subject: Ressources matérielles et services
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 3791.000000
+No de dossier: MAD778139
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DU MATÉRIEL ROULANT ET DES ATELIERS
+--------------------------------
+Date: 2015-05-01T00:00:00-04:00
+Subject: Ressources matérielles et services
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 2095.000000
+No de dossier: MAD776448
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DU MATÉRIEL ROULANT ET DES ATELIERS
+--------------------------------
+Date: 2015-04-21T00:00:00-04:00
+Subject: Ressources matérielles et services
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 6338.000000
+No de dossier: MAD775078
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DU MATÉRIEL ROULANT ET DES ATELIERS
+--------------------------------
+Date: 2015-04-21T00:00:00-04:00
+Subject: Ressources matérielles et services
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 6338.040000
+No de dossier: MAD775078
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DU MATÉRIEL ROULANT ET DES ATELIERS
+--------------------------------
+Date: 2015-02-17T00:00:00-05:00
+Subject: Ressources matérielles et services
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 4588.940000
+No de dossier: CAR764496
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DU MATÉRIEL ROULANT ET DES ATELIERS
+--------------------------------
+Date: 2015-02-17T00:00:00-05:00
+Subject: Ressources matérielles et services
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 16811.220000
+No de dossier: CAR764496
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DU MATÉRIEL ROULANT ET DES ATELIERS
+--------------------------------
+Date: 2015-01-15T00:00:00-05:00
+Subject: Ressources matérielles et services
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 2059.500000
+No de dossier: MAD763924
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DU MATÉRIEL ROULANT ET DES ATELIERS
+--------------------------------
+Date: 2015-01-07T00:00:00-05:00
+Subject: Ressources matérielles et services
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 2481.880000
+No de dossier: CAR760509
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DU MATÉRIEL ROULANT ET DES ATELIERS
+--------------------------------
+Date: 2015-01-05T00:00:00-05:00
+Subject: Ressources matérielles et services
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 5088.620000
+No de dossier: CAR762463
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DU MATÉRIEL ROULANT ET DES ATELIERS
+--------------------------------
+Date: 2014-12-08T00:00:00-05:00
+Subject: Infrastructures
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 114975.000000
+No de dossier: 1143334032
+Fournisseur: GROUPE MÉCANO
+Buyer: SERVICE DE L'EAU
+--------------------------------
+Date: 2014-10-07T00:00:00-04:00
+Subject: Ressources matérielles et services
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 3577.760000
+No de dossier: CAR754965
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DU MATÉRIEL ROULANT ET DES ATELIERS
+--------------------------------
+Date: 2014-07-07T00:00:00-04:00
+Subject: Ressources matérielles et services
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 3652.850000
+No de dossier: CAR738693
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DU MATÉRIEL ROULANT ET DES ATELIERS
+--------------------------------
+Date: 2014-05-06T00:00:00-04:00
+Subject: Ressources matérielles et services
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 3671.200000
+No de dossier: MAD742684
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DU MATÉRIEL ROULANT ET DES ATELIERS
+--------------------------------
+Date: 2014-04-30T00:00:00-04:00
+Subject: Arrondissements
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 575985.000000
+No de dossier: 1143903001
+Fournisseur: NORCLAIR INC.
+Buyer: ARRONDISSEMENT DE PIERREFONDS-ROXBORO
+--------------------------------
+Date: 2014-02-27T00:00:00-05:00
+Subject: Organisation et administration
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 3007.190000
+No de dossier: CAR736938
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DE LA CONCERTATION DES ARRONDISSEMENTS ET RESSOURCES MATÉRIELLES
+--------------------------------
+Date: 2014-02-04T00:00:00-05:00
+Subject: Organisation et administration
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 2348.740000
+No de dossier: CAR734638
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DE LA CONCERTATION DES ARRONDISSEMENTS ET RESSOURCES MATÉRIELLES
+--------------------------------
+Date: 2014-01-28T00:00:00-05:00
+Subject: Infrastructures
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 303215.000000
+No de dossier: 1133334026
+Fournisseur: GROUPE MÉCANO
+Buyer: SERVICE DE L'EAU
+--------------------------------
+Date: 2014-01-06T00:00:00-05:00
+Subject: Organisation et administration
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 2570.210000
+No de dossier: CAR730834
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DE LA CONCERTATION DES ARRONDISSEMENTS ET RESSOURCES MATÉRIELLES
+--------------------------------
+Date: 2013-11-12T00:00:00-05:00
+Subject: Organisation et administration
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 6014.250000
+No de dossier: 908753
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DE LA CONCERTATION DES ARRONDISSEMENTS ET RESSOURCES MATÉRIELLES
+--------------------------------
+Date: 2013-09-30T00:00:00-04:00
+Subject: Organisation et administration
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 4081.150000
+No de dossier: 889224
+Fournisseur: GROUPE MECANO INC
+Buyer: SERVICE DE LA CONCERTATION DES ARRONDISSEMENTS ET RESSOURCES MATÉRIELLES
+--------------------------------
+Date: 2013-06-13T00:00:00-04:00
+Subject: Organisation et administration
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 2408.430000
+No de dossier: CAR715266
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DE LA CONCERTATION DES ARRONDISSEMENTS ET RESSOURCES MATÉRIELLES
+--------------------------------
+Date: 2013-02-13T00:00:00-05:00
+Subject: Organisation et administration
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 2300.340000
+No de dossier: CAR688205
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DE LA CONCERTATION DES ARRONDISSEMENTS ET RESSOURCES MATÉRIELLES
+--------------------------------
+Date: 2012-04-18T00:00:00-04:00
+Subject: Organisation et administration
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 5569.910000
+No de dossier: CAR681364
+Fournisseur: MECANO ALCA INC
+Buyer: SERVICE DE LA CONCERTATION DES ARRONDISSEMENTS ET RESSOURCES MATÉRIELLES
+--------------------------------
+Date: 2012-02-16T00:00:00-05:00
+Subject: Arrondissements
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 3215.670000
+No de dossier: 724489
+Fournisseur: MECANO ALCA INC
+Buyer: ARRONDISSEMENT D'AHUNTSIC-CARTIERVILLE
+--------------------------------
+Date: 2012-02-06T00:00:00-05:00
+Subject: Arrondissements
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 3250.260000
+No de dossier: 720340
+Fournisseur: MECANO ALCA INC
+Buyer: ARRONDISSEMENT D'AHUNTSIC-CARTIERVILLE
+--------------------------------
+Date: 2011-12-08T00:00:00-05:00
+Subject: Sports, loisirs, culture et développement social
+Language: fr
+Procurement Method Rationale: contract
+Status: complete
+Value: 14214.720000
+No de dossier: 700785
+Fournisseur: MECANO-INDUSTRIE INC.
+Buyer: SERVICE DE LA QUALITÉ DE VIE
