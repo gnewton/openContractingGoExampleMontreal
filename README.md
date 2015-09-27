@@ -8,3 +8,7 @@ Using the URL [`http://ville.montreal.qc.ca/vuesurlescontrats/api/releases?q=mec
 Example Output
 =====
 [https://raw.githubusercontent.com/gnewton/openContractingGoExampleMontreal/master/output.txt](https://raw.githubusercontent.com/gnewton/openContractingGoExampleMontreal/master/output.txt)
+
+Source
+=====
+In response to posting on civicaccess list [http://civicaccess.48776.x6.nabble.com/OpenContracting-JSON-Python-td7358.html](http://civicaccess.48776.x6.nabble.com/OpenContracting-JSON-Python-td7358.html) by Pascal Robichaud.
